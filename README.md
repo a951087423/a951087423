@@ -12,8 +12,6 @@ Be an engineer is my dream. I will make my dream come ture🌟🌥
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a951087423&theme=yeblu)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=a951087423&repo=Henry-C-programming-learning&theme=moltack)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Henry's GitHub stats](https://github-readme-stats.vercel.app/api?username=a951087423&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
