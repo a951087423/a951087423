@@ -1,6 +1,6 @@
 ### Hi there Welcome to my ground👋
 
-Hi everyone👋 I'm henry, and you can call me henry.❤️  
+Hi everyone👋 I'm henry.❤️  
   
 I am a student from Taiwan✈, and My favorite things is watching Anime😍 and playing video games🎮.
 
