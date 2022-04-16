@@ -8,7 +8,7 @@ I am passionate about Anime, so i like all Anime in this world👍, and video ga
 
 And i am learning programming language because it is my interest💕. And i want to be a engineer after i finished my study stage!!!🙋‍  
   
-Be a engineer is my dream. I will make my dream come ture🌟🌥
+Be an engineer is my dream. I will make my dream come ture🌟🌥
 
 [![Henry's GitHub stats](https://github-readme-stats.vercel.app/api?username=a951087423&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
