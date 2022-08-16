@@ -1,6 +1,6 @@
 ### Hi there Welcome to my personal page👋
 
-I'm henry.👋  
+I'm Henry.👋  
 
 I am a student from Taiwan✈, and My favorite things is watching Anime😍 and playing video games🎮.
 
