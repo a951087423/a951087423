@@ -2,9 +2,11 @@
 
 I'm Henry.👋  
 
-I am a student from Taiwan✈, and My favorite things is watching Anime😍 and playing video games🎮.
+I am a student from Taiwan✈
 
-And i am learning programming language because it is my interest！.
+My favorite things is watching Anime and playing video games❤.
+
+I am learning programming language because it is my interest！.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a951087423&theme=yeblu)](https://github.com/anuraghazra/github-readme-stats)
 
